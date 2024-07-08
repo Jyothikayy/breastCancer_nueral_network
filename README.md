@@ -23,11 +23,6 @@ The model is trained using backpropagation and gradient descent optimization to 
 
 The dataset is divided into training and testing sets (e.g., 80% training, 20% testing). The model is trained on the training set using batch training or mini-batch training with a specified number of epochs. During training, the model's performance is monitored using validation data to prevent overfitting.
 
-## Evaluation Metrics
-
-The performance of the breast cancer classifier is evaluated using:
-- Accuracy: Percentage of correctly classified samples
-- 
 ## Usage
 
 To use the breast cancer classifier:
